@@ -1,8 +1,8 @@
 # Breast Cancer Detection
 
-This repository containts -
+This repository contains:
 
-Assignment 1 - ML Data Cleaning & Feature Selection.ipynb
+1. Assignment 1 - ML Data Cleaning & Feature Selection.ipynb
 
 ## Aim:
 In this project we aim to develop a complete ML project with
