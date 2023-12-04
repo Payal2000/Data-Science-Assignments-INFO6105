@@ -4,7 +4,7 @@ This repository contains:
 
 1. Assignment 1 - ML Data Cleaning & Feature Selection.ipynb
 2. Assignment 2 - AutoML.ipynb
-3. Assignment 3 - Model Intepretibility
+3. Assignment 3 - Model Intepretibility.ipynb
 
 ## Aim:
 In this project we aim to develop a complete ML project with
